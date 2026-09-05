@@ -1,0 +1,3 @@
+def gerar_relatorio_vendas():
+    print("Relatório de Vendas")
+    print("Total: R$ 10.000")
