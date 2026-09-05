@@ -1,0 +1,3 @@
+def autenticar_usuario():
+    print("Usuário autenticado com sucesso!")
+    return True
